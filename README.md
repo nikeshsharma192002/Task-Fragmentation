@@ -16,7 +16,7 @@ I've analyzed the provided code snippet and identified two potential approaches 
      -Updating transaction data and handling success/error scenarios.
 3-Additional hooks: Depending on the complexity, you might create separate hooks for specific functionalities like chain selection, token information, UI state management, etc.
 
-Option 2: Fragment the UI into Selective Components
+# Option 2: Fragment the UI into Selective Components
 
 1-BurnForm component: This component can handle user input for the burn amount, button interaction, and displaying progress/success/error messages.
 2-BurnStats component: This component can display information about the total supply, burnt tokens, circulating supply, and potentially price details.
