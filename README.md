@@ -33,5 +33,7 @@ Choosing the Right Approach:
 The best approach depends on your specific needs and preferences. Consider the following factors:
 
 1-Complexity and reusability: If the functionality you want to fragment is complex and reused across components, using hooks is ideal.
+
 2-Maintainability and readability: Breaking down the UI into components improves code readability and maintainability.
+
 3-Future needs: Think about potential future changes and how fragmenting either the functionality or UI would impact them.
